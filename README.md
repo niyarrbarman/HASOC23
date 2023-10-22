@@ -2,5 +2,5 @@
 
 To do:
 
-- [ ] upload final notebook for `hatenorm23`
+- [ x ] upload final notebook for `hatenorm23`
 
